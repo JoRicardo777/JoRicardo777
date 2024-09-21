@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoRicardo777
+<h1> 👋 Hi, I’m @JoRicardo777 </h1><hr>
 - 👀 I’m interested in job experience and opportunities to grou at the IT area.
 - 🌱 I’m currently learning HTML and CSS, with the final goal to be a Product Designer Developer.
 - 💞️ I’m looking to collaborate on projects to get experience.
